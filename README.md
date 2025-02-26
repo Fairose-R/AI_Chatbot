@@ -37,6 +37,9 @@ To set up the project locally, follow these steps:
 4. **Open your browser**
     Navigate to `http://localhost:3000` to see the chatbot in action.
 
+5. **Live Priview**
+   https://fairose-r.github.io/AI_Chatbot/
+
 ## Usage
 
 - Type your queries in the chat window.
